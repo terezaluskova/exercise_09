@@ -5,10 +5,10 @@
 * In R, implement a function `GreedySuperstring()` according to the pseudocode.
 
 * Input:
-    * `S` A `DNAStringSet` of strings (reads).
+    * `S` A `DNAStringSet` object of strings (reads).
 
 * Output:
-   * `S` A `DNAStringSet` of the shortest common superstring (contig).
+   * `S` A `DNAStringSet` object of the shortest common superstring (contig).
 
 > **Hint:** 
 > Create also functions:
